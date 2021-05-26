@@ -1,5 +1,5 @@
 
-class Arithmetic():
+class Arithmetic:
 
     def __init__(self, value1 = 0,value2 =0):
         self.value1 = value1

@@ -1,6 +1,6 @@
 
 
-class Circle():
+class Circle:
     pi = 3.14
     def __init__(self, radius = 0, area=0, circumference=0):
         self.radius =radius
