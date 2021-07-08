@@ -1,0 +1,19 @@
+
+
+
+
+Problem - Weather Observation Station 3
+
+SELECT DISTINCT CITY FROM STATION
+WHERE ID%2 = 0
+
+-----------------
+Problem - Weather Observation Station 1
+
+SELECT CITY,STATE FROM STATION
+
+------------------
+Problem - Japanese Cities' Names
+
+SELECT * FROM CITY
+WHERE COUNTRYCODE = 'JPN'
